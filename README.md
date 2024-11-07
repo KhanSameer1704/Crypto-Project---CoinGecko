@@ -1,4 +1,4 @@
-## Crypto currency price trackiong app
+## Crypto currency price tracking app
 
 [Deployed URL](https://crypto-project-coin-gecko-tijg.vercel.app/)
 
